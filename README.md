@@ -5,11 +5,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @kinjalspatel07/number-formatter`
+  `npm install kinjal`
 
 ## Usage
 
-    var numFormatter = require('@kinjalspatel07/number-formatter');
+    var numFormatter = require('kinjal');
 
     var formattedNum = numFormatter(35666);
   
